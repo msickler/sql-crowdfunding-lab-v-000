@@ -1,5 +1,5 @@
 INSERT INTO users (name, age) VALUES (1, "maki", 20), (2, "saki", 19), (3, "yui", 20), (4, "mai", 22), (5, "yumi", 18), (6, "lala", 23), (7, "mari", 23),
-(8, "yoko", 25), (9, "koko", 29), (10, "yuko", 27), (11, "mimi", 28), (12, "mochi", 26), (13, "mami", 19), (14, "aki", 21), (15, "yuki", 20), 
+(8, "yoko", 25), (9, "koko", 29), (10, "yuko", 27), (11, "mimi", 28), (12, "mochi", 26), (13, "mami", 19), (14, "aki", 21), (15, "yuki", 20),
 (16, "ai", 19), (17, "airi", 27), (18, "haru", 22), (19, "mayu", 28), (20, "miku", 17);
 
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES
