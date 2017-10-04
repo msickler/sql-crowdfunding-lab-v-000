@@ -10,7 +10,7 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 (5, "i think i can dance", "dreams", 20000, "10-2017", "12-2020"),
 (6, "trying not to do drugs", "literature", 1000, "07-2017", "07-2020"),
 (7, "spacial snowflake", "bills", 500000, "05-2017", "01-2019"),
-(8, "i'm going to mordor", "studies", 7000, "08-2017", "01-2018"),
+(8, "i'm going to mordor", "music", 7000, "08-2017", "01-2018"),
 (9, "i'm an actor...", "bills", 40000, "09-2017", "12-2017"),
 (10, "bae took my wallet", "victim", 10000, "10-2017", "02-2018");
 
