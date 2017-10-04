@@ -14,7 +14,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ("bae took my wallet", "victim", 10000, "10-2017", "02-2018");
 
 INSERT INTO pledges (amount, user_id, project_id) VALUES
-$ , 1-20, 1-10
+
 (100, 5, 5),
 (200, 6, 4),
 (300, 3, 9),
